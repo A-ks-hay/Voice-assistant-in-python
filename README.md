@@ -49,11 +49,17 @@ Once started, JARVIS will greet you and wait for voice commands.
 
 # Supported Voice Commands
 Command Example	Action
+
 Open YouTube	Opens youtube.com
+
 Play shape of you	Plays song on YouTube
+
 Search India history	Reads Wikipedia summary
+
 Time	Tells current system time
+
 Hello Jarvis	Assistant replies
+
 Shutdown / Stop / Bye	Close the assistant
 
 # To-Do / Future Ideas
